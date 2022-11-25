@@ -57,5 +57,4 @@ cd ~/nfl-rushing
 npm install
 yarn start
 ```
-After running `yarn start`, go to `http://localhost:3000/` on a browser to view the solution  
-Demo: https://nfl-rushing-demo.herokuapp.com/
+Open http://localhost:3000/ 
